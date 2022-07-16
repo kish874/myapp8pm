@@ -1,2 +1,4 @@
 Name Kishore
-Version 1.0
+pressure measurement added, Version 1.0
+
+thrust measurement added, Version 2.0
