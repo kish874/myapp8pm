@@ -1,4 +1,4 @@
 Name Kishore
 pressure measurement added, Version 1.0
-
 thrust measurement added, Version 2.0
+TC measurement added, version 3.0
